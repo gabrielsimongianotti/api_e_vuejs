@@ -11,13 +11,16 @@ Paciente
 - Cartão
 - Nome
 - Data Nascimento
+
 Médico
 - CRM
 - Nome
+
 Solicitações
 - Médico
 - Paciente
 - Data Atendimento
+
 Frequências
 - Solicitação
 - Data Verificação
