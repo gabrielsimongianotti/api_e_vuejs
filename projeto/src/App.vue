@@ -43,7 +43,7 @@ export default {
 
   data () {
     return {
-      title: 'Sistema de plano de saude'
+      title: 'Sistema Plano de Saude'
     }
   },
 
